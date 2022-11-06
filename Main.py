@@ -11,6 +11,7 @@ def insertionSort(array) -> List[int]:
     array[j + 1] = temp
   return array
 
+
 # data = [9, 5, 1, 4, 3]
 input_data = input()
 data = []
